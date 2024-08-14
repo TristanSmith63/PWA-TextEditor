@@ -35,7 +35,8 @@ Tristan Smith
 For questions about the project, please contact TristanSmith63 at tristaaan633@outlook.com.
 
 ## Screenshot
+![alt text](image.png)
 
 ## Link to Deployed Page on Render
-https://pwa-texteditor-9g32.onrender.com
+https://pwa-texteditor-9g32.onrender.com/
 
